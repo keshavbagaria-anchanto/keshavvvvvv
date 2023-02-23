@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m Keshav Bagaria, software developer intern at Anchanto
-- 🌱 I’m currently working on Java Backend Technologies
-- 💪  I’m currently learning Spring Framework
+- 🔭 I’m Keshav Bagaria, software developer at Anchanto
+- 🌱 I’m currently part of Parcel Tracking Team.
+- 💪 Building backend applications using Java SpringBoot.
 
 
